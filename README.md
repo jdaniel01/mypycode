@@ -1,6 +1,6 @@
 # mypycode (In-Depth Initiation into Python3)
 
-I learned Python3 a bit in bootcamp but received an opportunity to give it a closer look under a guided program. I'm thankful for the gift and will make sure it is put to good use. Let's see what I can learn.
+I learned Python3 a bit in bootcamp but received an opportunity to give it a closer look under a guided program. I'm thankful for the gift and will make sure it is put to good use. Let's see what I can learn. I will be focusing on the use of vim to modify files and Github for my SCM.
 
 ## Getting Started
 
